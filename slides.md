@@ -50,7 +50,7 @@ image: 'assets/img/wp.webp'
 
 ---
 layout: image-right
-image: '/assets/img/headless.png'
+image: 'assets/img/headless.png'
 ---
 
 <h2>what does <mark>Headless</mark> mean</h2>
