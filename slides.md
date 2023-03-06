@@ -73,16 +73,16 @@ layout: fact
 
 <h2>It's in our DNA to be fast.</h2>
 <div>
-<div>
-  <h1>50%</h1>
-  <h2>Faster Page Load Speed vs. competitors</h2>
-</div>
-<div>
-  <h1>20 x</h1>
-  <h2>Faster Build Times vs. competitors</h2>
-</div>
-<div>
-  <h1>2 x</h1>
-  <h2>SEO Boost vs. competitors</h2>
-</div>
+  <div>
+    <h1>50%</h1>
+    <h2>Faster Page Load Speed vs. competitors</h2>
+  </div>
+  <div>
+    <h1>20 x</h1>
+    <h2>Faster Build Times vs. competitors</h2>
+  </div>
+  <div>
+    <h1>2 x</h1>
+    <h2>SEO Boost vs. competitors</h2>
+  </div>
 </div>
