@@ -35,7 +35,7 @@ image: './assets/img/wp.webp'
 layout: fact
 ---
 
-# what Gastby does
+# what Gatsby does
 
 ---
 layout: intro-image
@@ -64,7 +64,7 @@ layout: fact
 transition: slide-up
 ---
 
-# why Gastby
+# why Gatsby
 
 
 ---
