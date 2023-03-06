@@ -28,7 +28,7 @@ transition: slide-up
 
 ---
 layout: intro-image
-image: '/assets/img/wp.webp'
+image: 'assets/img/wp.webp'
 ---
 
 ---
@@ -40,7 +40,7 @@ layout: fact
 ---
 layout: intro-image
 preload: false
-image: '/assets/img/wp.webp'
+image: 'assets/img/wp.webp'
 ---
 
 <img v-motion
