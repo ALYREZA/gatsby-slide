@@ -72,6 +72,7 @@ layout: fact
 ---
 
 <h2>It's in our DNA to be fast.</h2>
+<br />
 <div>
   <div>
     <h1>50%</h1>
